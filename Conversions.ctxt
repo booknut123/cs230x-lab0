@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Conversions
+comment0.text=\n\ This\ class\ is\ the\ starter\ code\ for\ the\ conversions\ task\ in\ Lab0.\ \n\ The\ purpose\ of\ this\ exercise\ is\ to\ gain\ more\ practice\ with\ datatype\ conversions\ in\ java.\n
+comment1.params=
+comment1.target=double\ problem1()
+comment2.params=
+comment2.target=double\ problem2()
+comment3.params=
+comment3.target=int\ problem3()
+comment4.params=
+comment4.target=java.lang.String\ problem4()
+comment5.params=seconds
+comment5.target=java.lang.String\ initSecs(int)
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7
